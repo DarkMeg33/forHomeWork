@@ -1,0 +1,1 @@
+cout << "x = " << x << "    F = " << function << endl;  // вывод ответа
